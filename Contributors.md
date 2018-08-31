@@ -4947,6 +4947,7 @@
 - [Cai Jun](https://github.com/JohnCaiJun)
 - [Henry Anfang](https://github.com/hpanfang)
 - [Kenji Morizono](https://github.com/KenjiMorizono)
+- [Ethan Li](https://github.com/Ethanli123)
 - [Max Copeland](https://github.com/maxcopeland61)
 - [Peter Yan](https://github.com/yanlinchengrui)
 - [Vedabrat Etwaru](https://github.com/vedabrat)
