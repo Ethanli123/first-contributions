@@ -83,6 +83,7 @@
 - [Niall Moran](https://github.com/niallermoran)
 - [Ross Tapson](https://github.com/rosstapson)
 - [Pedro Acosta](https://github.com/Pcost8300)
+- [Ethan Li](https://github.com/Ethanli123)
 - Elliott Weeks
 - Pietil
 - Jose Antonio
